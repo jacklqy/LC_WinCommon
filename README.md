@@ -1,5 +1,5 @@
 # LC_WinCommon
-WinForm通用类库封装
+WinForm通用类库封装（一个简单的WinForm操作数据库增删改查封装Demo）
 
 1.BaseDAL类之删除  ----DAL基类
 
