@@ -1,0 +1,18 @@
+D:\工作\BS+CS Vip第二期直播\20210525Course73通用类库封装1\WinCommon\Common\bin\Debug\Common.dll
+D:\工作\BS+CS Vip第二期直播\20210525Course73通用类库封装1\WinCommon\Common\bin\Debug\Common.pdb
+D:\工作\BS+CS Vip第二期直播\20210525Course73通用类库封装1\WinCommon\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\工作\BS+CS Vip第二期直播\20210525Course73通用类库封装1\WinCommon\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\工作\BS+CS Vip第二期直播\20210525Course73通用类库封装1\WinCommon\Common\obj\Debug\Common.dll
+D:\工作\BS+CS Vip第二期直播\20210525Course73通用类库封装1\WinCommon\Common\obj\Debug\Common.pdb
+D:\工作\BS+CS Vip第二期直播\20210526Course74通用类库封装2\WinCommon\Common\bin\Debug\Common.dll
+D:\工作\BS+CS Vip第二期直播\20210526Course74通用类库封装2\WinCommon\Common\bin\Debug\Common.pdb
+D:\工作\BS+CS Vip第二期直播\20210526Course74通用类库封装2\WinCommon\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\工作\BS+CS Vip第二期直播\20210526Course74通用类库封装2\WinCommon\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\工作\BS+CS Vip第二期直播\20210526Course74通用类库封装2\WinCommon\Common\obj\Debug\Common.dll
+D:\工作\BS+CS Vip第二期直播\20210526Course74通用类库封装2\WinCommon\Common\obj\Debug\Common.pdb
+D:\项目\20210527Course76通用类库封装3\WinCommon\Common\bin\Debug\Common.dll
+D:\项目\20210527Course76通用类库封装3\WinCommon\Common\bin\Debug\Common.pdb
+D:\项目\20210527Course76通用类库封装3\WinCommon\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+D:\项目\20210527Course76通用类库封装3\WinCommon\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\项目\20210527Course76通用类库封装3\WinCommon\Common\obj\Debug\Common.dll
+D:\项目\20210527Course76通用类库封装3\WinCommon\Common\obj\Debug\Common.pdb

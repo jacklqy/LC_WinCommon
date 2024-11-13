@@ -1,0 +1,44 @@
+D:\工作\BS+CS Vip第二期直播\20210525Course73通用类库封装1\WinCommon\DAL\bin\Debug\DAL.dll
+D:\工作\BS+CS Vip第二期直播\20210525Course73通用类库封装1\WinCommon\DAL\bin\Debug\DAL.pdb
+D:\工作\BS+CS Vip第二期直播\20210525Course73通用类库封装1\WinCommon\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\工作\BS+CS Vip第二期直播\20210525Course73通用类库封装1\WinCommon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\工作\BS+CS Vip第二期直播\20210525Course73通用类库封装1\WinCommon\DAL\obj\Debug\DAL.dll
+D:\工作\BS+CS Vip第二期直播\20210525Course73通用类库封装1\WinCommon\DAL\obj\Debug\DAL.pdb
+D:\工作\BS+CS Vip第二期直播\20210525Course73通用类库封装1\WinCommon\DAL\bin\Debug\Common.dll
+D:\工作\BS+CS Vip第二期直播\20210525Course73通用类库封装1\WinCommon\DAL\bin\Debug\Common.pdb
+D:\工作\BS+CS Vip第二期直播\20210525Course73通用类库封装1\WinCommon\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\工作\BS+CS Vip第二期直播\20210525Course73通用类库封装1\WinCommon\DAL\bin\Debug\Models.dll
+D:\工作\BS+CS Vip第二期直播\20210525Course73通用类库封装1\WinCommon\DAL\bin\Debug\Models.pdb
+D:\工作\BS+CS Vip第二期直播\20210526Course74通用类库封装2\WinCommon\DAL\bin\Debug\DAL.dll
+D:\工作\BS+CS Vip第二期直播\20210526Course74通用类库封装2\WinCommon\DAL\bin\Debug\DAL.pdb
+D:\工作\BS+CS Vip第二期直播\20210526Course74通用类库封装2\WinCommon\DAL\bin\Debug\Common.dll
+D:\工作\BS+CS Vip第二期直播\20210526Course74通用类库封装2\WinCommon\DAL\bin\Debug\Models.dll
+D:\工作\BS+CS Vip第二期直播\20210526Course74通用类库封装2\WinCommon\DAL\bin\Debug\Common.pdb
+D:\工作\BS+CS Vip第二期直播\20210526Course74通用类库封装2\WinCommon\DAL\bin\Debug\Models.pdb
+D:\工作\BS+CS Vip第二期直播\20210526Course74通用类库封装2\WinCommon\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\工作\BS+CS Vip第二期直播\20210526Course74通用类库封装2\WinCommon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\工作\BS+CS Vip第二期直播\20210526Course74通用类库封装2\WinCommon\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\工作\BS+CS Vip第二期直播\20210526Course74通用类库封装2\WinCommon\DAL\obj\Debug\DAL.dll
+D:\工作\BS+CS Vip第二期直播\20210526Course74通用类库封装2\WinCommon\DAL\obj\Debug\DAL.pdb
+D:\工作\BS+CS Vip第二期直播\20210527Course76通用类库封装3\WinCommon\DAL\bin\Debug\DAL.dll
+D:\工作\BS+CS Vip第二期直播\20210527Course76通用类库封装3\WinCommon\DAL\bin\Debug\DAL.pdb
+D:\工作\BS+CS Vip第二期直播\20210527Course76通用类库封装3\WinCommon\DAL\bin\Debug\Common.dll
+D:\工作\BS+CS Vip第二期直播\20210527Course76通用类库封装3\WinCommon\DAL\bin\Debug\Models.dll
+D:\工作\BS+CS Vip第二期直播\20210527Course76通用类库封装3\WinCommon\DAL\bin\Debug\Common.pdb
+D:\工作\BS+CS Vip第二期直播\20210527Course76通用类库封装3\WinCommon\DAL\bin\Debug\Models.pdb
+D:\工作\BS+CS Vip第二期直播\20210527Course76通用类库封装3\WinCommon\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\工作\BS+CS Vip第二期直播\20210527Course76通用类库封装3\WinCommon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\工作\BS+CS Vip第二期直播\20210527Course76通用类库封装3\WinCommon\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\工作\BS+CS Vip第二期直播\20210527Course76通用类库封装3\WinCommon\DAL\obj\Debug\DAL.dll
+D:\工作\BS+CS Vip第二期直播\20210527Course76通用类库封装3\WinCommon\DAL\obj\Debug\DAL.pdb
+D:\项目\20210527Course76通用类库封装3\WinCommon\DAL\bin\Debug\DAL.dll
+D:\项目\20210527Course76通用类库封装3\WinCommon\DAL\bin\Debug\DAL.pdb
+D:\项目\20210527Course76通用类库封装3\WinCommon\DAL\bin\Debug\Common.dll
+D:\项目\20210527Course76通用类库封装3\WinCommon\DAL\bin\Debug\Models.dll
+D:\项目\20210527Course76通用类库封装3\WinCommon\DAL\bin\Debug\Common.pdb
+D:\项目\20210527Course76通用类库封装3\WinCommon\DAL\bin\Debug\Models.pdb
+D:\项目\20210527Course76通用类库封装3\WinCommon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\项目\20210527Course76通用类库封装3\WinCommon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\项目\20210527Course76通用类库封装3\WinCommon\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\项目\20210527Course76通用类库封装3\WinCommon\DAL\obj\Debug\DAL.dll
+D:\项目\20210527Course76通用类库封装3\WinCommon\DAL\obj\Debug\DAL.pdb

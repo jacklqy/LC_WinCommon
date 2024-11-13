@@ -1,0 +1,36 @@
+D:\工作\BS+CS Vip第二期直播\20210525Course73通用类库封装1\WinCommon\Models\bin\Debug\Models.dll
+D:\工作\BS+CS Vip第二期直播\20210525Course73通用类库封装1\WinCommon\Models\bin\Debug\Models.pdb
+D:\工作\BS+CS Vip第二期直播\20210525Course73通用类库封装1\WinCommon\Models\bin\Debug\Common.dll
+D:\工作\BS+CS Vip第二期直播\20210525Course73通用类库封装1\WinCommon\Models\bin\Debug\Common.pdb
+D:\工作\BS+CS Vip第二期直播\20210525Course73通用类库封装1\WinCommon\Models\obj\Debug\Models.csprojAssemblyReference.cache
+D:\工作\BS+CS Vip第二期直播\20210525Course73通用类库封装1\WinCommon\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\工作\BS+CS Vip第二期直播\20210525Course73通用类库封装1\WinCommon\Models\obj\Debug\Models.csproj.CopyComplete
+D:\工作\BS+CS Vip第二期直播\20210525Course73通用类库封装1\WinCommon\Models\obj\Debug\Models.dll
+D:\工作\BS+CS Vip第二期直播\20210525Course73通用类库封装1\WinCommon\Models\obj\Debug\Models.pdb
+D:\工作\BS+CS Vip第二期直播\20210526Course74通用类库封装2\WinCommon\Models\bin\Debug\Models.dll
+D:\工作\BS+CS Vip第二期直播\20210526Course74通用类库封装2\WinCommon\Models\bin\Debug\Models.pdb
+D:\工作\BS+CS Vip第二期直播\20210526Course74通用类库封装2\WinCommon\Models\bin\Debug\Common.dll
+D:\工作\BS+CS Vip第二期直播\20210526Course74通用类库封装2\WinCommon\Models\bin\Debug\Common.pdb
+D:\工作\BS+CS Vip第二期直播\20210526Course74通用类库封装2\WinCommon\Models\obj\Debug\Models.csprojAssemblyReference.cache
+D:\工作\BS+CS Vip第二期直播\20210526Course74通用类库封装2\WinCommon\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\工作\BS+CS Vip第二期直播\20210526Course74通用类库封装2\WinCommon\Models\obj\Debug\Models.csproj.CopyComplete
+D:\工作\BS+CS Vip第二期直播\20210526Course74通用类库封装2\WinCommon\Models\obj\Debug\Models.dll
+D:\工作\BS+CS Vip第二期直播\20210526Course74通用类库封装2\WinCommon\Models\obj\Debug\Models.pdb
+D:\工作\BS+CS Vip第二期直播\20210527Course76通用类库封装3\WinCommon\Models\bin\Debug\Models.dll
+D:\工作\BS+CS Vip第二期直播\20210527Course76通用类库封装3\WinCommon\Models\bin\Debug\Models.pdb
+D:\工作\BS+CS Vip第二期直播\20210527Course76通用类库封装3\WinCommon\Models\bin\Debug\Common.dll
+D:\工作\BS+CS Vip第二期直播\20210527Course76通用类库封装3\WinCommon\Models\bin\Debug\Common.pdb
+D:\工作\BS+CS Vip第二期直播\20210527Course76通用类库封装3\WinCommon\Models\obj\Debug\Models.csprojAssemblyReference.cache
+D:\工作\BS+CS Vip第二期直播\20210527Course76通用类库封装3\WinCommon\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\工作\BS+CS Vip第二期直播\20210527Course76通用类库封装3\WinCommon\Models\obj\Debug\Models.csproj.CopyComplete
+D:\工作\BS+CS Vip第二期直播\20210527Course76通用类库封装3\WinCommon\Models\obj\Debug\Models.dll
+D:\工作\BS+CS Vip第二期直播\20210527Course76通用类库封装3\WinCommon\Models\obj\Debug\Models.pdb
+D:\项目\20210527Course76通用类库封装3\WinCommon\Models\bin\Debug\Models.dll
+D:\项目\20210527Course76通用类库封装3\WinCommon\Models\bin\Debug\Models.pdb
+D:\项目\20210527Course76通用类库封装3\WinCommon\Models\bin\Debug\Common.dll
+D:\项目\20210527Course76通用类库封装3\WinCommon\Models\bin\Debug\Common.pdb
+D:\项目\20210527Course76通用类库封装3\WinCommon\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+D:\项目\20210527Course76通用类库封装3\WinCommon\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\项目\20210527Course76通用类库封装3\WinCommon\Models\obj\Debug\Models.csproj.Up2Date
+D:\项目\20210527Course76通用类库封装3\WinCommon\Models\obj\Debug\Models.dll
+D:\项目\20210527Course76通用类库封装3\WinCommon\Models\obj\Debug\Models.pdb
